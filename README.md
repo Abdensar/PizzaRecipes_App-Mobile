@@ -20,5 +20,4 @@ A simple Android app to browse pizza recipes built with Java.
 1. Clone this repo
 2. Open in Android Studio
 3. Run on emulator or device
-
-## 📂 Project Structure
+   
